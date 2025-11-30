@@ -3,7 +3,7 @@
 Laboratório prático utilizando Kali Linux e a ferramenta Medusa, em conjunto com ambientes vulneráveis Metasploitable 2 e DVWA, para simular cenários de ataque de força bruta. 
 Configurar o ambiente: duas VMs (Kali Linux e Metasploitable 2 no VirtualBox, com rede interna (host-only). 
 Executar ataques simulados: força bruta em FTP, automação de tentativas em formulário web (DVWA) e password spraying em SMB com enumeração de usuários.
-Bloquear ataque de força bruda no serviço  SSH da ferramenta Hydra com o Fail2ban.
+Bloquear ataque de força bruta com o Fail2ban.
 
 
 ## Configuração do Ambiente
